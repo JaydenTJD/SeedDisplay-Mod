@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedDisplay", "SeedDisplay.csproj", "{3170F004-415A-4CF1-AC8E-CA21DE1FE3BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeedDisplay", "SeedDisplay.csproj", "{DF467DC6-18A2-4176-A7E4-267F58E37BE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3170F004-415A-4CF1-AC8E-CA21DE1FE3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3170F004-415A-4CF1-AC8E-CA21DE1FE3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3170F004-415A-4CF1-AC8E-CA21DE1FE3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3170F004-415A-4CF1-AC8E-CA21DE1FE3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF467DC6-18A2-4176-A7E4-267F58E37BE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF467DC6-18A2-4176-A7E4-267F58E37BE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF467DC6-18A2-4176-A7E4-267F58E37BE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF467DC6-18A2-4176-A7E4-267F58E37BE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
